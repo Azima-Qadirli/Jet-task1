@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\test\\OneDrive\\Desktop\\Azima\u0027s task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14B1622B-DBAC-466B-93A1-32BBC90F0AA2}|Azima\u0027s task\\Azima\u0027s task.csproj|c:\\users\\test\\onedrive\\desktop\\azima\u0027s task\\azima\u0027s task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B1622B-DBAC-466B-93A1-32BBC90F0AA2}|Azima\u0027s task\\Azima\u0027s task.csproj|solutionrelative:azima\u0027s task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\test\\OneDrive\\Desktop\\Azima\u0027s task\\Azima\u0027s task\\Program.cs",
+              "RelativeDocumentMoniker": "Azima\u0027s task\\Program.cs",
+              "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\Azima\u0027s task\\Azima\u0027s task\\Program.cs",
+              "RelativeToolTip": "Azima\u0027s task\\Program.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAADUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T08:22:43.688Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

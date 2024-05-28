@@ -1,0 +1,28 @@
+C:\Users\test\OneDrive\Desktop\Azima's task\Azima's task\bin\Debug\net8.0\Azima's task.exe
+C:\Users\test\OneDrive\Desktop\Azima's task\Azima's task\bin\Debug\net8.0\Azima's task.deps.json
+C:\Users\test\OneDrive\Desktop\Azima's task\Azima's task\bin\Debug\net8.0\Azima's task.runtimeconfig.json
+C:\Users\test\OneDrive\Desktop\Azima's task\Azima's task\bin\Debug\net8.0\Azima's task.dll
+C:\Users\test\OneDrive\Desktop\Azima's task\Azima's task\bin\Debug\net8.0\Azima's task.pdb
+C:\Users\test\OneDrive\Desktop\Azima's task\Azima's task\obj\Debug\net8.0\Azima's task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\test\OneDrive\Desktop\Azima's task\Azima's task\obj\Debug\net8.0\Azima's task.AssemblyInfoInputs.cache
+C:\Users\test\OneDrive\Desktop\Azima's task\Azima's task\obj\Debug\net8.0\Azima's task.AssemblyInfo.cs
+C:\Users\test\OneDrive\Desktop\Azima's task\Azima's task\obj\Debug\net8.0\Azima's task.csproj.CoreCompileInputs.cache
+C:\Users\test\OneDrive\Desktop\Azima's task\Azima's task\obj\Debug\net8.0\Azima's task.dll
+C:\Users\test\OneDrive\Desktop\Azima's task\Azima's task\obj\Debug\net8.0\refint\Azima's task.dll
+C:\Users\test\OneDrive\Desktop\Azima's task\Azima's task\obj\Debug\net8.0\Azima's task.pdb
+C:\Users\test\OneDrive\Desktop\Azima's task\Azima's task\obj\Debug\net8.0\Azima's task.genruntimeconfig.cache
+C:\Users\test\OneDrive\Desktop\Azima's task\Azima's task\obj\Debug\net8.0\ref\Azima's task.dll
+C:\Users\test\OneDrive\Desktop\c# Jet\Azima's task\Azima's task\bin\Debug\net8.0\Azima's task.exe
+C:\Users\test\OneDrive\Desktop\c# Jet\Azima's task\Azima's task\bin\Debug\net8.0\Azima's task.deps.json
+C:\Users\test\OneDrive\Desktop\c# Jet\Azima's task\Azima's task\bin\Debug\net8.0\Azima's task.runtimeconfig.json
+C:\Users\test\OneDrive\Desktop\c# Jet\Azima's task\Azima's task\bin\Debug\net8.0\Azima's task.dll
+C:\Users\test\OneDrive\Desktop\c# Jet\Azima's task\Azima's task\bin\Debug\net8.0\Azima's task.pdb
+C:\Users\test\OneDrive\Desktop\c# Jet\Azima's task\Azima's task\obj\Debug\net8.0\Azima's task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\test\OneDrive\Desktop\c# Jet\Azima's task\Azima's task\obj\Debug\net8.0\Azima's task.AssemblyInfoInputs.cache
+C:\Users\test\OneDrive\Desktop\c# Jet\Azima's task\Azima's task\obj\Debug\net8.0\Azima's task.AssemblyInfo.cs
+C:\Users\test\OneDrive\Desktop\c# Jet\Azima's task\Azima's task\obj\Debug\net8.0\Azima's task.csproj.CoreCompileInputs.cache
+C:\Users\test\OneDrive\Desktop\c# Jet\Azima's task\Azima's task\obj\Debug\net8.0\Azima's task.dll
+C:\Users\test\OneDrive\Desktop\c# Jet\Azima's task\Azima's task\obj\Debug\net8.0\refint\Azima's task.dll
+C:\Users\test\OneDrive\Desktop\c# Jet\Azima's task\Azima's task\obj\Debug\net8.0\Azima's task.pdb
+C:\Users\test\OneDrive\Desktop\c# Jet\Azima's task\Azima's task\obj\Debug\net8.0\Azima's task.genruntimeconfig.cache
+C:\Users\test\OneDrive\Desktop\c# Jet\Azima's task\Azima's task\obj\Debug\net8.0\ref\Azima's task.dll
